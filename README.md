@@ -7,6 +7,7 @@ I have removed 99.5% of the none semantic tags such as div,
 I have fixed any broken links in this case it was the link for - **search-engine-optimization**
 
 
+
 ## Table of Contents (Optional)
 
 If your README is very long, add a table of contents to make it easy for users to find what they need.
