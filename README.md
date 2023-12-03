@@ -42,7 +42,6 @@ root directory;
 
 Once these files are correctly placed you can directly load the index.html file.
 
-
 ## Credits
 
 List your collaborators, if any, with links to their GitHub profiles.
