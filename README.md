@@ -4,7 +4,7 @@
 
 I have taken a starter code for the Horiseon website,
 I have removed 99.5% of the none semantic tags such as div,
-I have fixed any broken links in this case it was the link for - >search-engine-optimization
+I have fixed any broken links in this case it was the link for - **search-engine-optimization**
 
 
 ## Table of Contents (Optional)
