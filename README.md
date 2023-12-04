@@ -1,4 +1,4 @@
-# horiseon
+# Horiseon
 
 ## Description 
 
