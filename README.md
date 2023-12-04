@@ -48,8 +48,3 @@ Orignal credit to the course providers of https://bootcampspot.instructure.com/
 ## License
 
 See the license inside my repo for further details of the MIT license.
-
----
-
-🏆 The sections listed above are the minimum for a good README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
