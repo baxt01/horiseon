@@ -22,8 +22,8 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
-    color: #d9dcd6;
+.header .seo {
+    color: #ecececc9;
 }
 
 .header nav {
@@ -78,7 +78,7 @@ p {
 
 .benefits {
     margin-right: 20px;
-    padding: 20px;
+    padding: 30px;
     clear: both;
     float: right;
     width: 20%;
@@ -87,48 +87,25 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
+/* consolidated these 3 classes into one set of properties. */
+.benefit-lead,
+.benefit-brand,
 .benefit-cost {
-    margin-bottom: 32px;
+    margin-bottom: 45px;
     color: #ffffff;
 }
 
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
+/* consolidated these 3 classes into one set of properties. */
+.benefit-lead h3,
+.benefit-brand h3,
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
+/* consolidated these 3 classes into one set of properties. */
+.benefit-lead img,
+.benefit-brand img,
 .benefit-cost img {
     display: block;
     margin: 10px auto;
