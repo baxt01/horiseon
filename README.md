@@ -24,19 +24,47 @@ This codebase will run locally or in an online enviroment,
 There's all you should need to do is setup the directory structor as follows:
 root directory;
 > index.html
+
+
 > assets (directory)
+
+
 >> assets
+
+
 >>> css (directory)
+
+
 >>> images (directory)
+
+
 >> css
+
+
 >>> style.css
+
+
 >> images
+
+
 >>> brand-awareness.png
+
+
 >>> cost-management.png
+
+
 >>> digital-marketing-meeting.jpg
+
+
 >>> lead-generation.png
+
+
 >>> online-reputation-management.jpg
+
+
 >>> search-engine-optimization.jpg
+
+
 >>> social-media-marketing.jpg
 
 Once these files are correctly placed you can directly load the index.html file.
